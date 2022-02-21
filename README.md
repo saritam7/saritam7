@@ -1,4 +1,24 @@
-### Hi there 👋
+# Hi there 👋
+
+```
+                _____
+             ,-"     "-.
+            / o       o \
+           /   \     /   \
+          /     )-"-(     \
+         /     ( 6 6 )     \
+        /       \ " /       \
+       /         )=(         \
+      /   o   .--"-"--.   o   \
+     /    I  /  -   -  \  I    \
+ .--(    (_}y/\       /\y{_)    )--.
+(    ".___l\/__\_____/__\/l___,"    )
+ \                                 /
+  "-._      o O o O o O o      _,-"
+      `--Y--.___________.--Y--'
+         |==.___________.==| hjw
+         `==.___________.==' `97
+```
 
 <!--
 **saritam7/saritam7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
